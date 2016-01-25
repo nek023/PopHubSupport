@@ -10,8 +10,10 @@ PopHub issue tracker.
 
 - **2.1.0** is in review. This version will:
   - Add keyboard shortcuts
-  - Fix the number of unread notification is wrong
-  - Fix the notify new * settings doesn't work
+    - You can set arbitrary key bindings to open the window
+    - You can also scroll content by using Up/Down (or J/K)
+  - Fix the number of unread notifications is wrong
+  - Fix the notify new * settings doesn't work (Sorry this is a terrible mistake)
   - Fix the authorization view is not shown just after sign out
   - Refine the detail text layout in activities view
 
