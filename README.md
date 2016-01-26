@@ -8,7 +8,7 @@ PopHub issue tracker.
 
 ## Progress
 
-- **2.1.0** is in review. This version will:
+- The current version is **2.1.0**. In this version:
   - Add keyboard shortcuts
     - You can set arbitrary key bindings to open the window
     - You can also scroll content by using Up/Down (or J/K)
