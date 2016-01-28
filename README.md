@@ -17,7 +17,7 @@ PopHub issue tracker.
   - Fix the authorization view is not shown just after sign out
   - Refine the detail text layout in activities view
 
-- **2.1.1** is under development. This version will:
+- **2.1.1** is in review. This version will:
   - Fix some notifications are not shown
   - Fix desktop notifications are not removed when it is clicked
   - Show pull-request title in activities view
