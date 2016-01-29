@@ -15,4 +15,4 @@ PopHub issue tracker.
 
 - The version **2.1.2** is under development. This version will:
   - Add a shortcut to refresh data manually
-  - Fix the error occurs when the GitHub service is not available
+  - Fix the error occurs on launch if the GitHub service is not available
