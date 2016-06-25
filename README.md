@@ -8,11 +8,9 @@ PopHub issue tracker.
 
 ## Progress
 
-- The current version is **2.1.1**. In this version:
-  - Fix some notifications are not shown
-  - Fix desktop notifications are not removed when it is clicked
-  - Show pull-request title in activities view
-
-- The version **2.1.2** is under development. This version will:
+- The current version is **2.1.2**. In this version:
   - Add a shortcut to refresh data manually
   - Fix the error occurs on launch if the GitHub service is not available
+
+- The version **2.1.3** is in review. In this version:
+  - Fix the old notifications are shown
