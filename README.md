@@ -8,9 +8,8 @@ PopHub issue tracker.
 
 ## Progress
 
-- The current version is **2.1.2**. In this version:
-  - Add a shortcut to refresh data manually
-  - Fix the error occurs on launch if the GitHub service is not available
-
-- The version **2.1.3** is in review. In this version:
+- The current version is **2.1.3**. In this version:
   - Fix the old notifications are shown
+
+- The version **2.1.4** was submitted. In this version:
+  - Fix it fails to parse some notifications
